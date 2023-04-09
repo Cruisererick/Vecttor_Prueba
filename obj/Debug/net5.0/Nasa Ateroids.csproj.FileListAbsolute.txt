@@ -1,0 +1,30 @@
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\appsettings.json
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Nasa Ateroids.exe
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Nasa Ateroids.deps.json
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Nasa Ateroids.runtimeconfig.json
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Nasa Ateroids.runtimeconfig.dev.json
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Nasa Ateroids.dll
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\ref\Nasa Ateroids.dll
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Nasa Ateroids.pdb
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.AssemblyInfo.cs
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\staticwebassets\Nasa Ateroids.StaticWebAssets.Manifest.cache
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\staticwebassets\Nasa Ateroids.StaticWebAssets.xml
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\scopedcss\bundle\Nasa Ateroids.styles.css
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.RazorTargetAssemblyInfo.cache
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.csproj.CopyComplete
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.dll
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\ref\Nasa Ateroids.dll
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.pdb
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\obj\Debug\net5.0\Nasa Ateroids.genruntimeconfig.cache
+C:\Users\Juan\source\repos\Nasa Ateroids\Nasa Ateroids\bin\Debug\net5.0\Newtonsoft.Json.dll
